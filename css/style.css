@@ -1,0 +1,53 @@
+:root {
+    --primary: #051159;
+    --secondary: #0014A8;
+    --text: white;
+
+    --bg: #98BFEA;
+
+    --hover: #2662a3;
+
+    --navheight: 50px;
+}
+
+.cimsor {
+    background-color: var(--bg);
+    width: 100%;
+    height: var(--navheight);
+    display: flex;
+}
+
+.cimelem {
+    height: var(--navheight);
+    background-color: var(--secondary);
+
+    flex:1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    text-decoration: None;
+    Color:var(--text);
+
+    font-size: larger;
+    margin: 0px 1.5px;
+}
+
+.cimelem:hover {
+    background-color: var(--hover);
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: var(--bg);
+}
+
+.logo {
+    height: var(--navheight);
+}
+
+.nav {
+    display: flex;
+    flex:1;
+}

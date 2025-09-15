@@ -1,0 +1,19 @@
+Weblap keszitese: html/css/script
+Bekescsaba nevezetessegei
+Rendezvenyek -> minden evben
+    Versenyek
+    Fesztivalok
+Latvanyossagok
+Szallasok
+
+Videok, mozaikok, stb..
+nededodizajn
+bootstrap -> nem fogjuk
+
+Index: Bekescsaba tortenete
+Rendezvenyek
+Latnivalok
+Szallasok
+
+githabra felrakni -> purhab borotvahab nem opcio
+hatarido ~09/24
