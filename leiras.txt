@@ -17,5 +17,3 @@ Szallasok
 
 githabra felrakni -> purhab borotvahab nem opcio
 hatarido ~09/24
-
-asdadasddsadsda
