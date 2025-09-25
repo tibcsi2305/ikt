@@ -32,17 +32,3 @@ Látványosságok:
 		munkacsy.hu/
 		arpadfurdo.hu/site/
 		csabagyongye.com/
-
-Szín paletták:
-	Nagyon kék:
-		051159
-		253377
-		0E5CB0
-		2447BB
-		0014A8
-
-Templatek:
-	startbootstrap.com/previews/modern-business
-	
-
-shdhzasdad
