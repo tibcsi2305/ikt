@@ -80,6 +80,16 @@
   }
 }
 
+#button:hover {
+  transition: all ease-in-out 0.2s;
+  transform: scale(1.1);
+}
+
+#trans:hover{
+  transition: all ease-in-out 0.2s;
+  transform: scale(1.1);
+}
+
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
